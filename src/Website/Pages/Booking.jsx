@@ -1,7 +1,7 @@
 import React from 'react'
 import Header1 from '../Components/Header1'
 
-function Booking() {
+function Booking() {    
     return (
         <div>
             <Header1 title={"Booking"}/>

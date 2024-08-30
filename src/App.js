@@ -31,7 +31,6 @@ import Not_Found from "./Website/Pages/Not_Found";
 import Signup from "./Website/Pages/Signup";
 import Profile from "./Website/Pages/Profile";
 import View_services from "./Website/Pages/View_services";
-import Employee_profile from "./Admin/Pages/Employee_profile";
 
 function App() {
   return (
@@ -77,7 +76,7 @@ function App() {
           {/* <Route path="/feedback" element={<><Admin_Header/><Feedbacks/> <Admin_Footer/></>}></Route> */}
 
           <Route path="/view_services/:cate_id" element={<><View_services /></>}></Route>
-          <Route path="/Employee_profie" element={<><Employee_profile/></>}></Route>
+
         </Routes>
       </BrowserRouter>
     </>
