@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yogi342/Restaurent-Management-System/static/css/main.f029a054.css",
+    "main.js": "/Yogi342/Restaurent-Management-System/static/js/main.3add8d20.js",
+    "index.html": "/Yogi342/Restaurent-Management-System/index.html",
+    "main.f029a054.css.map": "/Yogi342/Restaurent-Management-System/static/css/main.f029a054.css.map",
+    "main.3add8d20.js.map": "/Yogi342/Restaurent-Management-System/static/js/main.3add8d20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f029a054.css",
+    "static/js/main.3add8d20.js"
+  ]
+}
